@@ -1,15 +1,34 @@
-**Bonjour** 👋
  
 
-I'm a Java software engineer, developing web applications. I help professional SW engineers working on data-intensive apps to develop efficient and intuitive data visualizations so they can work on challenging projects.
+### Bonjour, [Csilla Szántó][website] here. 👋
 
-You can find my published articles on [GitHub Pages](https://csillaszanto.github.io/ "GH Pages"), more coming soon...
-
-:point_right: For downloading my checklist on data visualization, click on [10 Steps to Amazing Data Visualizations](https://bit.ly/10-steps-data-viz "Link to eBook")
-
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvisionaryds.ch&style=for-the-badge&label=visionaryds.ch&color=%230571B0)][website]
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/CsillaSzanto?style=for-the-badge&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcsillaszanto&screen_name=csillaszanto)
 
 
-<!---
-csillads21/csillads21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About
+
+- 💻 Java software engineer, developing web applications
+- 🧠 Interested in data science, GenAI
+- 🕸 Coordinator/Speaker at
+  - TDC Future 2022 - Data Science
+  - TDC Future 2021 - A11y & Diversity
+  - TDC Connection 2021 - Data
+  - International Career Day 2023, 2022, 2021
+- 💡 Inspired by programming and natural languages
+- 👉 My checklist on data visualization: [10 Steps to Amazing Data Visualizations](https://bit.ly/10-steps-data-viz "Link to eBook")
+- ❄️ Mountain climber
+
+
+### Connect with me:
+
+[<img align="left" alt="visionaryds.ch" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="csillaszanto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="csillaszanto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+[website]: https://visionaryds.ch
+[twitter]: https://twitter.com/CsillaSzanto
+[linkedin]: https://www.linkedin.com/in/csilla-szanto
