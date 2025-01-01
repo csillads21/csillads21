@@ -8,9 +8,10 @@
 
 ### About
 
-- 💻 Java software engineer, developing web applications
-- 🧠 Interested in data science, GenAI
+- 💻 Software engineer, DS & DataViz
+- 🧠 Interested in (Gen)AI
 - 🕸 Coordinator/Speaker at
+  - TDC São Paulo 2024 - Mentoring Hub
   - TDC Future 2022 - Data Science
   - TDC Future 2021 - A11y & Diversity
   - TDC Connection 2021 - Data
